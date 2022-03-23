@@ -1,0 +1,11 @@
+html2text
+geopy
+phonenumbers
+pandas
+statsmodels
+cryptography
+pmdarima
+netifaces
+img2pdf
+fpdf
+googlemaps
